@@ -1,0 +1,11 @@
+torch
+transformers
+diffusers
+accelerate
+soundfile
+openai-whisper
+rapidfuzz
+sarvam
+elevenlabs
+mmpose
+gradio
