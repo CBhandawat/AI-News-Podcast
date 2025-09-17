@@ -1,3 +1,9 @@
+⚠️ Work in Progress
+I’m still working on integrating MuseTalk (for talking head video) and VibeVoice (for local TTS).
+Right now, the scraper, Sarvam AI, and ElevenLabs are working fine ✅.
+
+You’re more than welcome to contribute to this repository and help make everything fully functional! 🙌
+
 # AI-News-Podcast
 Your AI Gossiper
 
@@ -66,4 +72,13 @@ python app.py
 http://localhost:7861/
 ```
 
+## Notes
+
+You’ll need API keys set up in .env for:
+
+--Sarvam AI
+--ElevenLabs
+--Gemini API KEY
+
+VibeVoice and MuseTalk will run locally
 
