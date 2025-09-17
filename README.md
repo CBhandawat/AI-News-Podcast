@@ -79,6 +79,7 @@ You’ll need API keys set up in .env for:
 --Sarvam AI
 --ElevenLabs
 --Gemini API KEY
+--HuggingFace Hub Token
 
 VibeVoice and MuseTalk will run locally
 
